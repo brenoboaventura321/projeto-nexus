@@ -1,10 +1,8 @@
 # Chave da Steam Web API
 # Obter em: https://steamcommunity.com/dev/apikey
-STEAM_API_KEY=ABD94BE898232FCEB56B79895E0EDCCC
-
+STEAM_API_KEY=
 # Chave do Google AI Studio (Gemini)
 # Obter em: https://aistudio.google.com/app/apikey
-GEMINI_API_KEY=AIzaSyD1DPNjl0S8jc00RZ1vS57kCdKGJQ2NhL4
-
+GEMINI_API_KEY=
 # Porta do servidor (opcional, padrão: 3001)
 PORT=3001
