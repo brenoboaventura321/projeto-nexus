@@ -37,7 +37,7 @@ NexaPlay é uma plataforma web inovadora de catálogo de videojogos digitais int
 Saída de código
 README.md criado com sucesso.
 
-```bash
+``bash
 ├── nexaplay.html   # Estrutura visual da aplicação, estilos CSS e painel do chat
 ├── script.js       # Comportamento do frontend, slider de banners, catálogo e renderização de cartões
 ├── server.js       # Servidor Express, integração com APIs da Steam e Gemini e lógica RAG
